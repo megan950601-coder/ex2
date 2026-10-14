@@ -18,7 +18,7 @@ a:hover{
 
 /*header*/
 header{
-    position: fixed; /*上面是否白色*/
+    position: sticky; /*上面是否白色*/
     top: 0;
     width: 100%;
     height: auto;
